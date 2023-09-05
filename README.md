@@ -57,7 +57,6 @@ Clone this repository to your local machine.
 
 Install the required libraries if not already installed:
 
-Copy code
 # pip install openpyxl
 Customize the script:
 
