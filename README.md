@@ -26,7 +26,7 @@ Before running the script, make sure you have the following set up:
 
 2. Install the required libraries if not already installed:
 
-pip install openpyxl
+`pip install openpyxl`
 
 
 3. Customize the script:
@@ -35,7 +35,7 @@ pip install openpyxl
 
 4. Run the script:
 
-python send_emails.py
+`python send_emails.py`
 
 
 5. The script will send emails with attachments to the recipients listed in the Excel file. Recipients marked as 'completed' in the 'Status' column will be skipped.
